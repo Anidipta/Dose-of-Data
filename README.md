@@ -13,7 +13,8 @@ The Pokémon dataset encompasses a variety of attributes for each Pokémon, incl
 
 ## **Dataset**
 
-The Pokémon dataset contains detailed information about various Pokémon species, including their attributes, abilities, and classifications. This document provides an overview of the dataset and its attributes.
+The Pokémon dataset contains detailed information about various Pokémon species, including their attributes, abilities, and classifications. 
+Dataset --> [Data](pokemon.csv)
 
 <details><summary>Attributes</summary>
 
