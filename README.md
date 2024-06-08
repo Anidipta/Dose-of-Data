@@ -67,7 +67,7 @@ To run the analysis notebook locally, follow these steps:
 
 1. Clone this repository to your local machine.
 2. Install Dependencies --> run `pip install -r requirements.txt`.
-3. Open the Jupyter Notebook (`pokemon-anidipta.ipynb`).
+3. Open the Jupyter Notebook (`pokemon_anidipta.ipynb`).
 4. Execute the Code .
 
 ## Conclusion
