@@ -53,7 +53,12 @@ Dataset --> [Data](pokemon.csv)
 
 ## **Contents**
 
+
 - Dataset - [Data](pokemon.csv)
+- Jupyter Notebook - [.ipynb file](pokemon_anidipta.ipynb)
+- Dependencies List - [List](requirements.txt)
+
+  
 ## Methodology
 
 1. **Data Loading**: Load the Pokémon dataset.
