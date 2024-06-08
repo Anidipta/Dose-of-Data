@@ -73,4 +73,6 @@ The Pokémon Dataset Analysis project provides deep insights into Pokémon chara
 
 ## Author
 
-Anidipta Pal
+| Name                  |
+|-----------------------|
+| Anidipta Pal |
